@@ -4,16 +4,8 @@ LeetCode Solutions
 
 My solutions to LeetCode problems, mainly written in Java.
 
-📌 Practicing Data Structures & Algorithms and improving problem-solving skills one problem at a time.
+A repository to track my problem-solving practice and progress.
 
-Topics
-Arrays
-Strings
-Linked Lists
-Sorting
-Searching
-Trees
-Hashing
-Dynamic Programming
+More solutions will be added as I continue learning and practicing.
 
-More problems will be added as I progress.
+
